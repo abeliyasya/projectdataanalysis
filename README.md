@@ -36,4 +36,4 @@
 
 ## Kontak
 - GitHub: [abeliyasya](https://github.com/abeliyasya)
-- LinkedIn: (isi link)
+- LinkedIn: [www.linkedin.com/in/abeliya-syafa-ah-945334373]
