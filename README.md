@@ -8,7 +8,7 @@
 - **Temuan utama:**
   - Tingkat churn keseluruhan sebesar **20.37%**.
   - Faktor yang paling berpengaruh terhadap churn: **Geografi & Gender, Usia, dan Keaktifan nasabah**.
-  - Model LightGBM mencapai **accuracy/AUC/recall sebesar 0.88**.
+  - Model LightGBM mencapai **AUC sebesar 0.88**.
 
 ### 2. Analisis Penjualan Kopi Nang Kau
 - **File:** `Analisis_Penjualan_KopiNangKau_1305003.ipynb`
